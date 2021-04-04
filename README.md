@@ -12,3 +12,5 @@ Follow instruction how to add it as external app in the OpanAuto forum
 You may have to install websockets if you don`t already have it on the Rpi: 
 
     pip install websockets
+
+![alt text](https://i.ibb.co/GRrYv3q/165458414-451594739414192-8416442325025784473-n.jpg)
